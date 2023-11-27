@@ -1,0 +1,1 @@
+cd www && npm install &&  NODE_OPTIONS="--openssl-legacy-provider expo start --web" npm run start;
